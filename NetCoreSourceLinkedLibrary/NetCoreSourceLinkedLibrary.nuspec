@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GL.NetCoreSourceLinked.CSharp</id>
+    <version>1.0.0</version>
+    <description>A .NET CLI Project Template for a .NET Standard 2.0 class library set up for Source Link</description>
+    <authors>Giancarlo Lelli</authors>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+  </metadata>
+</package>

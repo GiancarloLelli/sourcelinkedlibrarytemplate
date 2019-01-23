@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Giancarlo Lelli",
+  "classifications": [ "Common", "Library" ], 
+  "name": ".NET Core Source Linked Library",
+  "identity": "GiancarloLelli.NetCore.SourceLinked.Library.CSharp",         
+  "groupIdentity":"GiancarloLelli.NetCore.SourceLinked.Library",
+  "shortName": "sll",
+  "tags": {
+    "language": "C#",
+    "type":"project"
+  },
+  "sourceName": "LinkedClassLibrary",
+  "preferNameDirectory":true
+}
